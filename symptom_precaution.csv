@@ -1,0 +1,26 @@
+Disease,Precaution1,Precaution2,Precaution3
+Flu,Take rest,Drink fluids,Consult doctor
+Migraine,Avoid stress,Take rest,Use medication
+Dengue,Drink fluids,Take rest,Consult doctor
+Malaria,Use mosquito nets,Take medication,Avoid stagnant water
+Typhoid,Drink clean water,Maintain hygiene,Take antibiotics
+Common Cold,Drink warm fluids,Take rest,Avoid cold exposure
+COVID-19,Wear mask,Isolate,Consult doctor
+Pneumonia,Take antibiotics,Rest well,Consult doctor
+Asthma,Avoid triggers,Use inhaler,Consult doctor
+Bronchitis,Avoid smoke,Take rest,Drink fluids
+Chickenpox,Avoid scratching,Take rest,Maintain hygiene
+Measles,Isolate patient,Take rest,Consult doctor
+Diabetes,Monitor sugar,Exercise regularly,Follow diet
+Hypertension,Reduce salt,Exercise,Monitor BP
+Heart Disease,Avoid stress,Healthy diet,Regular checkup
+Gastritis,Avoid spicy food,Eat small meals,Take medication
+Food Poisoning,Drink fluids,Rest,Consult doctor
+Tuberculosis,Complete medication,Avoid crowd,Consult doctor
+Allergy,Avoid allergens,Take antihistamines,Consult doctor
+Sinusitis,Steam inhalation,Drink fluids,Take medication
+Anemia,Iron rich diet,Take supplements,Consult doctor
+Depression,Seek support,Exercise,Consult therapist
+Arthritis,Exercise,Physiotherapy,Take medication
+Kidney Stones,Drink water,Avoid salty food,Consult doctor
+Liver Disease,Avoid alcohol,Healthy diet,Consult doctor

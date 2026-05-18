@@ -1,0 +1,26 @@
+Disease,Symptom1,Symptom2,Symptom3
+Flu,fever,cough,headache
+Migraine,headache,nausea,vomiting
+Dengue,fever,joint_pain,rash
+Malaria,fever,chills,shivering
+Typhoid,high_fever,weakness,abdominal_pain
+Common Cold,cough,sneezing,runny_nose
+COVID-19,fever,cough,breathlessness
+Pneumonia,fever,cough,chest_pain
+Asthma,breathlessness,chest_tightness,cough
+Bronchitis,cough,fatigue,shortness_of_breath
+Chickenpox,fever,rash,itching
+Measles,fever,rash,red_eyes
+Diabetes,frequent_urination,increased_thirst,fatigue
+Hypertension,headache,dizziness,chest_pain
+Heart Disease,chest_pain,breathlessness,fatigue
+Gastritis,stomach_pain,nausea,vomiting
+Food Poisoning,vomiting,diarrhea,stomach_pain
+Tuberculosis,cough,weight_loss,night_sweats
+Allergy,sneezing,itching,runny_nose
+Sinusitis,headache,facial_pain,nasal_congestion
+Anemia,fatigue,pale_skin,shortness_of_breath
+Depression,sadness,fatigue,sleep_problems
+Arthritis,joint_pain,stiffness,swelling
+Kidney Stones,back_pain,vomiting,painful_urination
+Liver Disease,fatigue,abdominal_pain,yellowing_skin
